@@ -9,14 +9,14 @@ Having embarked on projects that span the Eastern and Southern regions of Africa
 
 -----
 <img align="right" width=300px alt="Unicorn" src="night_coding.gif"/>
-__My Interests:__
+### My Interests:
 - Software Engineering
 - Data Science
 - Project Management
 - Customs Procedures/Systems Training
 
 
-__CONNECT__
+### CONNECT
 <p align="left">
 	<a href="mailto:davrobs@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://wa.me/+256708405053"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Whatsapp"/></a>
