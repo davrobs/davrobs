@@ -16,6 +16,7 @@ Having embarked on projects that span the Eastern and Southern regions of Africa
 - Project Management
 - Customs Procedures/Systems Training
 
+<br/>
 
 ### CONNECT
 <p align="left">
