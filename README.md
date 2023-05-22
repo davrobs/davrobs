@@ -8,14 +8,13 @@ Over the course of my career, I've been an integral part of multidisciplinary te
 Having embarked on projects that span the Eastern and Southern regions of Africa, my experience transcends geographic boundaries. I'm proud of my contribution towards leveraging technology to enhance trade and create efficient, seamless processes, as we develop out communities, regions and the continent as a whole.
 
 -----
-
+<img align="right" width=300px alt="Unicorn" src="night_coding.gif"/>
 __My Interests:__
 - Software Engineering
 - Data Science
 - Project Management
 - Customs Procedures/Systems Training
 
-<img align="right" width=300px alt="Unicorn" src="night_coding.gif"/>
 
 __CONNECT__
 <p align="left">
