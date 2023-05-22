@@ -9,7 +9,8 @@ Having embarked on projects that span the Eastern and Southern regions of Africa
 
 -----
 <img align="right" width=300px alt="Unicorn" src="night_coding.gif"/>
-### My Interests:
+
+### My Interests
 - Software Engineering
 - Data Science
 - Project Management
