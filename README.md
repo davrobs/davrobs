@@ -26,47 +26,42 @@ __CONNECT__
 
 ### Technologies and Tools I know
 
-__Front End__
-<br>
+#### Front End
 <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-<br>
+
 ---
 
-__Back End__
-<br>
+#### Back End
 <img alt="" src="https://img.shields.io/badge/Java-%23150458.svg?style=for-the-badge&logo=java&logoColor=orange">
 <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
 <img alt="" src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python">
 <img alt="" src="">
 <img alt="" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<br>
+
 ---
 
-__Databases__
-<br>
+#### Databases
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000.svg?style=for-the-badge&logo=oracle&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=green">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<br>
+
 ---
 
-__Operating Systems__
-<br>
+#### Operating Systems
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://www.oracle.com/solaris/"><img src="https://img.shields.io/badge/Solaris-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-<br>
+
 ---
 
-__Version Control__
-<br>
+#### Version Control
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=181717)
 
-<br>
+
 ---
 
 ### Github Stats Overview
