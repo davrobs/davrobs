@@ -27,26 +27,25 @@ __CONNECT__
 ### Technologies and Tools I know
 
 #### Front End
-<img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+<a href="#"><img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
 ---
 
 #### Back End
-<img alt="" src="https://img.shields.io/badge/Java-%23150458.svg?style=for-the-badge&logo=java&logoColor=orange">
-<img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
-<img alt="" src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python">
-<img alt="" src="">
-<img alt="" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<a href="#"><img alt="" src="https://img.shields.io/badge/Java-%23150458.svg?style=for-the-badge&logo=java&logoColor=orange"></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="#"><img alt="" src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python"></a>
+<a href="#"><img alt="" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 
 ---
 
 #### Databases
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000.svg?style=for-the-badge&logo=oracle&logoColor=white">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=green">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000.svg?style=for-the-badge&logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=green"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
 ---
 
