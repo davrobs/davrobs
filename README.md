@@ -15,7 +15,7 @@ __My Interests:__
 - Project Management
 - Customs Procedures/Systems Training
 
-<img align="centre" width=300px alt="Unicorn" src="nice_coding_gif.gif"/>
+<img align="right" width=300px alt="Unicorn" src="night_coding.gif"/>
 
 __CONNECT__
 <p align="left">
